@@ -1,0 +1,172 @@
+/* Color of the links BEFORE scroll */
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars,
+.navbar-scroll .navar-brand {
+  color: #4f4f4f;
+}
+
+.navbar-scroll .nav-link:hover {
+  color: #1266f1;
+}
+
+/* Color of the links AFTER scroll */
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars,
+.navbar-scrolled .navar-brand {
+  color: #4f4f4f;
+}
+
+/* Color of the navbar AFTER scroll */
+.navbar-scroll,
+.navbar-scrolled {
+  background-color: #fff;
+}
+
+/* An optional height of the navbar AFTER scroll */
+.navbar.navbar-scroll.navbar-scrolled {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+body {
+  background-color: #eee;
+}
+
+/*page product*/
+.single-team {
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 10px;
+	perspective: 1000px;
+	-webkit-perspective: 1000px;
+}
+.team-img {
+	width: 100%;
+	height: 250px;
+	padding: 20px;
+	text-align: center;
+	transition: all .5s ease;
+}
+.one {
+	background-image: url(../img/Grande.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.two {
+	background-image: url(../img/Mediano.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.three {
+	background-image: url(../img/Chico.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.four {
+  background-image: url(../img/cangrejo.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.five {
+  background-image: url(../img/ositos.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.six {
+  background-image: url(../img/conejos.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.seven {
+  background-image: url(../img/cisne.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.eight {
+  background-image: url(../img/frozen.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.nine {
+  background-image: url(../img/jirafa.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.ten {
+  background-image: url(../img/cangrejo.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.eleven {
+  background-image: url(../img/oso.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.twelve {
+  background-image: url(../img/leones.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.thirteen {
+  background-image: url(../img/zorrito.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.fourteen {
+  background-image: url(../img/img2.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.fifteen {
+  background-image: url(../img/muñeca.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.sixteen {
+  background-image: url(../img/hipopotamo.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.seventeen {
+  background-image: url(../img/cisne.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+.eighteen {
+  background-image: url(../img/frozen.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
